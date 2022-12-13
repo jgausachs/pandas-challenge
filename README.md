@@ -18,4 +18,3 @@ The data analysed covered 15 schools with results from 39,170 student’s tests.
 From the data analysed we conclude that the quality and structure of educational programs is a greater determinant of student performance than the amount of resources applied towards delivering the eductional programs. 
 
 However, further analysis is recommended to assess whether variables such as student socio-economic circumstance correlate with school size and school type and can help to better target improvements to the educational programs within the LGA.
-![image](https://user-images.githubusercontent.com/73529437/207325647-e46abe61-75a4-4552-9887-f01eae7e2f9a.png)
